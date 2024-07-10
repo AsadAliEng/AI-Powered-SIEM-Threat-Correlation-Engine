@@ -472,7 +472,7 @@ Please use synthetic, sanitized data in issues, tests, screenshots, and pull req
     <img src="https://img.shields.io/badge/GitHub-AsadAliEng-181717?style=for-the-badge&logo=github" alt="GitHub profile">
   </a>
   <a href="mailto:asadalieng1107@gmail.com">
-    <img src="https://img.shields.io/badge/Email-asadali.cryptoeng%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Asad Ali">
+    <img src="https://img.shields.io/badge/Email-asadalieng1107%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Asad Ali">
   </a>
 </p>
 
