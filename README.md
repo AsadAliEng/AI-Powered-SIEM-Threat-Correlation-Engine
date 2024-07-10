@@ -471,7 +471,7 @@ Please use synthetic, sanitized data in issues, tests, screenshots, and pull req
   <a href="https://github.com/AsadAliEng">
     <img src="https://img.shields.io/badge/GitHub-AsadAliEng-181717?style=for-the-badge&logo=github" alt="GitHub profile">
   </a>
-  <a href="mailto:asadali.cryptoeng@gmail.com">
+  <a href="mailto:asadalieng1107@gmail.com">
     <img src="https://img.shields.io/badge/Email-asadali.cryptoeng%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Asad Ali">
   </a>
 </p>
@@ -480,7 +480,7 @@ Please use synthetic, sanitized data in issues, tests, screenshots, and pull req
 |---|---|
 | 👤 **Name** | Asad Ali |
 | 💻 **GitHub** | [@AsadAliEng](https://github.com/AsadAliEng) |
-| 📧 **Email** | [asadali.cryptoeng@gmail.com](mailto:asadali.cryptoeng@gmail.com) |
+| 📧 **Email** | [asadalieng1107@gmail.com](mailto:asadalieng1107@gmail.com) |
 
 <sub>Open to cybersecurity engineering, AI safety, and defensive automation collaboration.</sub>
 
